@@ -1,0 +1,11 @@
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\bin\Debug\netcoreapp3.0\Lab_9.exe
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\bin\Debug\netcoreapp3.0\Lab_9.deps.json
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\bin\Debug\netcoreapp3.0\Lab_9.runtimeconfig.json
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\bin\Debug\netcoreapp3.0\Lab_9.runtimeconfig.dev.json
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\bin\Debug\netcoreapp3.0\Lab_9.dll
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\bin\Debug\netcoreapp3.0\Lab_9.pdb
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\obj\Debug\netcoreapp3.0\Lab_9.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\obj\Debug\netcoreapp3.0\Lab_9.AssemblyInfo.cs
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\obj\Debug\netcoreapp3.0\Lab_9.dll
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\obj\Debug\netcoreapp3.0\Lab_9.pdb
+C:\Users\Christian\source\repos\GrandCircus\Lab_9\Lab_9\obj\Debug\netcoreapp3.0\Lab_9.csprojAssemblyReference.cache
